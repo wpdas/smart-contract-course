@@ -40,7 +40,7 @@ https://testnet.nearblocks.io/address/<created-account>
 
 Exemplo: https://testnet.nearblocks.io/address/my-app-greeting-1234.testnet
 
-# 5 - Crie uma conta pessoal ou faça login com a conta já criada
+## 5 - Crie uma conta pessoal ou faça login com a conta já criada
 
 ```sh
 # Caso queira fazer login com a conta pessoal já criada. Isso vai abrir seu browser para obter os dados da conta.
@@ -49,7 +49,7 @@ near login
 # Caso queira criar uma nova conta pessoal usando o CLI, repita o passo 3.
 ```
 
-# 6 - Interagindo com o contrato
+## 6 - Interagindo com o contrato
 
 ## 6.1 Lendo dados
 
